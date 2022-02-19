@@ -73,3 +73,6 @@ To use this library with Go, check out the [crawlerdetect](https://github.com/x-
 _Parts of this class are based on the brilliant [MobileDetect](https://github.com/serbanghita/Mobile-Detect)_
 
 [![Analytics](https://ga-beacon.appspot.com/UA-72430465-1/Crawler-Detect/readme?pixel)](https://github.com/JayBizzle/Crawler-Detect)
+
+
+Petit test
